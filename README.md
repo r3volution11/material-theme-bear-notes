@@ -20,4 +20,4 @@ I offer no support for this. This is just me modifying the app to fit the theme 
 
 ❤️
 
-ps. I did not create Bear and am not affiliated with it and its creators in any manner.
+ps. I did not create Bear and am not affiliated with it or its creators in any manner.
