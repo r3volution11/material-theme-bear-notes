@@ -6,7 +6,7 @@ Installing this theme requires some good ol' copy / pasting within the Bear app'
 
 ## Instructions
 
-1. If needed, quit Bear.
+1. If open, quit Bear.
 2. Go to your Applications folder.
 3. Locate and Right-Click on Bear. Select "Show Package Contents."
 4. Navigate to `Contents/Resources`. 
