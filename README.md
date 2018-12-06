@@ -14,7 +14,7 @@ Installing this theme requires some good ol' copy / pasting within the Bear app'
 4. Navigate to `Contents/Resources`. 
 5. Create backups for `Dark Graphite App Theme.theme` and `Dark Graphite Text Theme.theme`.
 6. Overwrite those files with the ones included within this repo.
-7. Open Bear.
+7. Open Bear and make sure Dark Graphite is the selected theme.
 
 I offer no support for this. This is just me modifying the app to fit the theme I use in other apps and letting anyone interested in on the fun.
 
