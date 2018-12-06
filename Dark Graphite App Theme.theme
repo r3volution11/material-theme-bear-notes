@@ -448,7 +448,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(34, 34, 34, 0.90)</string>
+		<string>rgba(40, 45, 61, 0.90)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -456,7 +456,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(34, 34, 34, 1)</string>
+		<string>rgba(40, 45, 61, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -480,7 +480,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(120, 123, 128, 1.00)</string>
+		<string>rgba(103, 110, 149, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -488,7 +488,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(67, 68, 70, 1.0)</string>
+		<string>rgba(72, 76, 105, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -504,7 +504,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(89, 89, 89, 1.00)</string>
+		<string>rgba(72, 76, 105, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
