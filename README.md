@@ -1,4 +1,4 @@
-![Material Palenight for Bear Screenshot](http://r3v.in/XAUAzR/Screen-Shot-2018-12-06-01-51-54.78.png)
+![Material Palenight for Bear Screenshot](http://r3v.in/9goj5m/Screen-Shot-2018-12-06-02-53-24.84.png)
 
 # Material Palenight Theme for Bear Notes (macOS)
 
