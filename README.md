@@ -4,6 +4,16 @@ Bear uses XML for their themes which makes it rather easy to create your own. Un
 
 Installing this theme requires some good ol' copy / pasting within the Bear app's package contents.
 
+## Instructions
+
+1. If needed, quit Bear.
+2. Go to your Applications folder.
+3. Locate and Right-Click on Bear. Select "Show Package Contents."
+4. Navigate to `Contents/Resources`. 
+5. Create backups for Dark Graphite App Theme.theme and Dark Graphite Text Theme.theme.
+6. Overwrite those files with the ones included within this repo.
+7. Open Bear.
+
 I offer no support for this. This is just me modifying the app to fit the theme I use in other apps and letting anyone interested in on the fun.
 
 ❤️
