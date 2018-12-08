@@ -8,7 +8,7 @@ Bear uses XML for their themes which makes it rather easy to create your own. Un
 
 Installing this theme requires some good ol' copy / pasting within the Bear app's package contents.
 
-## Instructions
+## Theme Install Instructions
 
 1. If open, quit Bear.
 2. Go to your Applications folder.
@@ -18,8 +18,21 @@ Installing this theme requires some good ol' copy / pasting within the Bear app'
 6. Overwrite those files with the ones included within this repo.
 7. Open Bear and make sure Dark Graphite is the selected theme.
 
-I offer no support for this. This is just me modifying the app to fit the theme I use in other apps and letting anyone interested in on the fun.
+## Icon Install Instructions
+
+I've also created a Bear app icon replacement. Making sure the icon is always displayed requires the following:
+
+1. First update `Contents/Resources/AppIcon.icns` with the icon files included (`resources/dock-icon*.png`).
+-- Use [LiteIcon](https://freemacsoft.net/liteicon/) or..
+-- Copy/Paste using the Info Panel. ([Guide](http://osxdaily.com/2013/06/04/change-icon-mac/))
+
+2. For the icon to appear while Bear is open you must edit Bear's Assets.car file (`resources/Assets.car`) using [Theme Engine](https://github.com/alexzielenski/ThemeEngine). Be sure to replace both images in `AppIcon Dark Graphite` (**use the right sizes!**). When finished make sure the "App icon matches theme" option is **enabled** in Bear's Themes preferences panel.
+
+## Bugs or Issues
+
+I offer no support for this. This is just me modifying the app to fit the theme I use in other apps and letting anyone interested in on the fun. If anyone has any ideas please let me know and add an [Issue](https://github.com/r3volution11/bear-theme-material-palenight/issues).
 
 ❤️
 
-ps. I did not create Bear and am not affiliated with it or its creators in any manner.
+
+**Note:** I did not create Bear and am not affiliated with it or its creators in any manner.
