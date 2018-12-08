@@ -22,11 +22,12 @@ Installing this theme requires some good ol' copy / pasting within the Bear app'
 
 I've also created a Bear app icon replacement. Making sure the icon is always displayed requires the following:
 
-1. Update `Contents/Resources/AppIcon.icns` with the icon files included (`resources/dock-icon*.png`).
-  -- Use [LiteIcon](https://freemacsoft.net/liteicon/) or..
-  -- Copy/Paste using the Info Panel. ([Guide](http://osxdaily.com/2013/06/04/change-icon-mac/))
+- First, Update `Contents/Resources/AppIcon.icns` with the icon files included (`resources/dock-icon*.png`).
+  - Use [LiteIcon](https://freemacsoft.net/liteicon/)
+  - or Copy/Paste through Finder Info Panel - [Guide](http://osxdaily.com/2013/06/04/change-icon-mac/)
 
-2. For the icon to appear while Bear is open you must edit Bear's Assets.car file (`/Applications/Bear.app/Contents/Resources/Assets.car`) using [Theme Engine](https://github.com/alexzielenski/ThemeEngine). Be sure to replace both images in `Assets.car/AppIcon Dark Graphite`. When finished **enabled** the "App icon matches theme" option in Bear's Themes preferences panel.
+- Second, to work while open you must edit Bear's Assets.car file (`/Applications/Bear.app/Contents/Resources/Assets.car`) using [Theme Engine](https://github.com/alexzielenski/ThemeEngine). Be sure to replace both images in `Assets.car/AppIcon Dark Graphite`.
+- When finished **enable** the "App icon matches theme" option in Bear's Themes preferences panel.
 
 ## Bugs or Issues
 
