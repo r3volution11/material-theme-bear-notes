@@ -33,7 +33,7 @@ I've also created a Bear app icon replacement. Making sure the icon is always di
 
 ## Bugs or Issues
 
-I offer no support for this. This is just me modifying the app to fit the theme I use in other apps and letting everyone interested in on the fun. If you have any ideas please let me know by adding an [Issue](https://github.com/r3volution11/bear-theme-material-palenight/issues).
+Due to the nature of this theme I can offer little support. This is just me modifying the app to fit the theme I use in other apps and letting everyone interested in on the fun. If you have any ideas or notice any issues please let me know by adding an [Issue](https://github.com/r3volution11/bear-theme-material-palenight/issues).
 
 ❤️
 
