@@ -22,6 +22,8 @@ Installing this theme requires some good ol' copy / pasting within the Bear app'
 
 I've also created a Bear app icon replacement. Making sure the icon is always displayed requires the following:
 
+<img src="http://r3v.in/W1qTze/dock-icon-2x.png" alt="Material Palenight for Bear Icon" style="width: 100px; height: auto;>
+
 - First, Update `Contents/Resources/AppIcon.icns` with the icon files included (`resources/dock-icon*.png`).
   - Use [LiteIcon](https://freemacsoft.net/liteicon/)
   - or Copy/Paste through Finder Info Panel - [Guide](http://osxdaily.com/2013/06/04/change-icon-mac/)
