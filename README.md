@@ -8,6 +8,10 @@ Bear uses XML for their themes which makes it rather easy to create your own. Un
 
 Installing this theme requires some good ol' copy / pasting within the Bear app's package contents.
 
+### Updates
+
+**12/14/18** – Work on support for all Material Theme variants has begun.. stay tuned!
+
 ## Theme Install Instructions
 
 1. If open, quit Bear.
