@@ -10,11 +10,13 @@ Installing requires some good ol' copy / pasting within Bear app's package conte
 
 ## Updates
 
-**12/28/18** - I've already created themes and icons for all Material Theme variants. `Lighter` is will be available soon.
+**12/28/18** - I've already created themes and icons for all Material Theme variants. `Lighter` will be available soon.
+
 **12/27/18** - Happy Holidays everyone! The Default theme is ready for use. Pale Night was slightly tweaked as well.
+
 **12/14/18** – Work on support for all Material Theme variants has begun.. stay tuned!
 
-## Themes
+## To Do - Themes
 
 - [x] Pale Night
 - [x] Default
