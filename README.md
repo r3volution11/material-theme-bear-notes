@@ -2,11 +2,11 @@
 
 # Material Theme for Bear Notes (macOS)
 
-Based on the most epic theme for Visual Studio Code made by @equinusocio, [Material Theme](https://github.com/equinusocio/vsc-material-theme).
+Based on the most epic theme for Visual Studio Code made by @equinusocio, [Material Theme](https://github.com/equinusocio/vsc-material-theme). It's a great theme with beautiful colors and plenty of themes to keep things fresh and current.
 
-Bear uses XML for their themes which makes it rather easy to modify and create your own. Unfortunately some "hacking" is involved as they do not support third party themes.
+Bear uses XML for their themes which is easy to modify and create your own. That said, some **easy** "hacking" is involved as they do not officially support third party themes.
 
-Installing requires some good ol' copy / pasting within Bear app's package contents. Nothing flashy.
+Instructions are included below. It's a short list, don't worry.
 
 ## Updates
 
@@ -16,7 +16,7 @@ Installing requires some good ol' copy / pasting within Bear app's package conte
 
 **12/14/18** – Work on support for all Material Theme variants has begun.. stay tuned!
 
-## To Do - Themes
+## To Do - Theme Variants
 
 - [x] Pale Night
 - [x] Default
@@ -24,7 +24,7 @@ Installing requires some good ol' copy / pasting within Bear app's package conte
 - [ ] Ocean
 - [ ] Darker
 
-## Theme Install Instructions
+## Install Instructions
 
 Each Material Theme variant I've created has a different name used to replace a theme within Bear itself. So far I've created Pale Night [`/themes/palenight`] and Default [`/themes/default`]
 
@@ -38,7 +38,7 @@ Each Material Theme variant I've created has a different name used to replace a 
 
 ## Icon Install Instructions
 
-I've also created Bear app icon replacements for each theme (so far). Making sure the icon is always displayed requires the following:
+I've created Bear app icon replacements for each theme variant. The Bear developers decided to make icons a little tougher to customize as well. Thankfully, not too hard. To install and ensure the theme icon is always displayed requires the following:
 
 <img src="http://r3v.in/W1qTze/dock-icon-2x.png" width="100">
 
@@ -49,11 +49,17 @@ I've also created Bear app icon replacements for each theme (so far). Making sur
 - Second, to work while open you must edit Bear's Assets.car file (`/Applications/Bear.app/Contents/Resources/Assets.car`) using [Theme Engine](https://github.com/alexzielenski/ThemeEngine). Be sure to replace both images in `Assets.car/AppIcon [theme-name]`.
 - When finished **enable** the "App icon matches theme" option in Bear's Themes preferences panel.
 
-## Bugs or Issues
+## Important Notes
 
-This is just me modifying the app to fit the theme I use in other apps and letting everyone interested in on the fun. If you have any ideas or notice any issues please let me know by adding an [Issue](https://github.com/r3volution11/bear-theme-material-palenight/issues).
+Unfortunately after each Bear update you may have to do this process over again. Be sure to keep these files available locally or, I recommend, to clone the repo so you can more easily keep up to date. I use this theme so I intend to keep it up to date as Bear is updated.
+
+If I miss anything...
+
+## Bugs, Issues or Feedback
+
+If you have any ideas or notice issues please let me know by adding an [Issue](https://github.com/r3volution11/bear-theme-material-palenight/issues).
 
 ❤️
 
 
-**Note:** I did not create Bear or the Material Palenight Theme color palette and am not affiliated with their creators in any manner.
+**Note:** I did not create [Bear (macOS/iOS/etc.)}(https://bear.app) or the Material Theme color scheme, palette or anything related unless specified otherwise. I am not affiliated with their creators in any manner.
