@@ -62,4 +62,4 @@ If you have any ideas or notice issues please let me know by adding an [Issue](h
 ❤️
 
 
-**Note:** I did not create [Bear (macOS/iOS/etc.)}(https://bear.app) or the Material Theme color scheme, palette or anything related unless specified otherwise. I am not affiliated with their creators in any manner.
+**Note:** I did not create [Bear (macOS/iOS/etc.)](https://bear.app) or the Material Theme color scheme, palette or anything related unless specified otherwise. I am not affiliated with their creators in any manner.
