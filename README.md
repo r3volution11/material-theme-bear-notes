@@ -1,6 +1,6 @@
-![Material Palenight for Bear Screenshot](http://r3v.in/92KgIQ/Screen-Shot-2018-12-07-03-00-54.72.png)
+![Material Theme for Bear Screenshot](http://r3v.in/RXU6Av/pb-mtw8PGMZOD.png)
 
-# Material Palenight Theme for Bear Notes (macOS)
+# Material Theme for Bear Notes (macOS)
 
 Based on the most epic theme for Visual Studio Code made by @equinusocio, [Material Theme](https://github.com/equinusocio/vsc-material-theme).
 
@@ -13,6 +13,14 @@ Installing requires some good ol' copy / pasting within Bear app's package conte
 **12/28/18** - I've already created themes and icons for all Material Theme variants. `Lighter` is will be available soon.
 **12/27/18** - Happy Holidays everyone! The Default theme is ready for use. Pale Night was slightly tweaked as well.
 **12/14/18** – Work on support for all Material Theme variants has begun.. stay tuned!
+
+## Themes
+
+- [x] Pale Night
+- [x] Default
+- [ ] Lighter *- now in progress*
+- [ ] Ocean
+- [ ] Darker
 
 ## Theme Install Instructions
 
