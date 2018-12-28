@@ -336,7 +336,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$icon-color</string>
+		<string>rgba(166, 172, 205, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -384,7 +384,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(137, 221, 255, 1.00)</string>
+		<string>rgba(180, 192, 255, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -408,7 +408,8 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(137, 221, 255, 1.00)</string>
+		<string>rgba(199, 146, 234, 1.00)</string>
+		<!-- <string>rgba(255, 204, 0, 1.00)</string> -->
 	</dict>
 	<dict>
 		<key>key</key>
