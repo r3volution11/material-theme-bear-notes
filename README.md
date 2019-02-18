@@ -10,6 +10,8 @@ Instructions are included below. It's a short list, don't worry.
 
 ## Updates
 
+**2/17/19** - Work continues. Re-doing theme structure for easier work going forward. `Lighter` will be available soon after.
+
 **12/28/18** - I've already created themes and icons for all Material Theme variants. `Lighter` will be available soon.
 
 **12/27/18** - Happy Holidays everyone! The Default theme is ready for use. Pale Night was slightly tweaked as well.
