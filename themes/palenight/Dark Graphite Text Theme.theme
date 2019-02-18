@@ -6,14 +6,6 @@
 	<!-- Base -->
 	<dict>
 		<key>key</key>
-		<string>$white</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>RGBA(255, 255, 255, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
 		<string>$base-1</string>
 		<key>kind</key>
 		<string>color</string>
@@ -34,7 +26,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(58, 63, 88, 1.00)</string>
+		<string>RGBA(49, 53, 74, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -42,7 +34,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(78, 85, 121, 1.00)</string>
+		<string>RGBA(58, 63, 88, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -50,7 +42,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(103, 110, 149, 1.00)</string>
+		<string>RGBA(78, 85, 121, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -58,7 +50,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(166, 172, 205, 1.00)</string>
+		<string>RGBA(103, 110, 149, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -66,7 +58,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(180, 192, 255, 1.00)</string>
+		<string>RGBA(166, 172, 205, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -74,7 +66,23 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
+		<string>RGBA(180, 192, 255, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-9</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
 		<string>RGBA(236, 239, 239, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$white</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(255, 255, 255, 1.00)</string>
 	</dict>
 	<!-- Colors -->
 	<dict>
@@ -188,7 +196,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-6</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -196,7 +204,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-5</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -236,7 +244,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-5</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -244,7 +252,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-4</string>
+		<string>$base-5</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -252,7 +260,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-5</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -276,7 +284,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-3</string>
+		<string>$base-4</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -324,7 +332,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-4</string>
+		<string>$base-5</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -364,7 +372,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-4</string>
+		<string>$base-5</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -372,7 +380,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-6</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -396,7 +404,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-5</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -432,7 +440,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-6</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -448,7 +456,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-6</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
