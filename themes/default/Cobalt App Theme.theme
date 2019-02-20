@@ -2,25 +2,108 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+	<!-- START: Custom Variables -->
+	<!-- Base -->
 	<dict>
 		<key>key</key>
-		<string>$base-background-color</string>
+		<string>$base-1</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(38, 50, 56, 1.00)</string>
+		<string>RGBA(25, 34, 38, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>$dark-background-color</string>
+		<string>$base-2</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(25, 34, 38, 1.00)</string>
+		<string>RGBA(38, 50, 56, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>$title-text-color</string>
+		<string>$base-3</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(43, 58, 66, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-4</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(46, 63, 71, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-5</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(52, 76, 84, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-6</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(84, 110, 122, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-7</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(134, 161, 172, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-8</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(134, 190, 228, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-9</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(255, 255, 255, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$white</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(255, 255, 255, 1.00)</string>
+	</dict>
+	<!-- Colors -->
+	<dict>
+		<key>key</key>
+		<string>$red</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(255, 83, 112, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$orange</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(247, 140, 108, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$yellow</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
@@ -28,59 +111,84 @@
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>$text-color</string>
+		<string>$yellow-bright</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(238, 255, 255, 1.00)</string>
+		<string>RGBA(255, 204, 0, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>$icon-color</string>
+		<string>$green</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(55, 81, 83, 1.00)</string>
+		<string>RGBA(195, 232, 141, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>$label-color</string>
+		<string>$cyan</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(84, 110, 122, 1.00)</string>
+		<string>RGBA(137, 221, 255, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>$separator-color</string>
+		<string>$blue</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(44, 57, 64, 1.00)</string>
+		<string>RGBA(130, 170, 255, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>$accent-color</string>
+		<string>$paleblue</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(137, 221, 255, 1.00)</string>
+		<string>RGBA(179, 204, 214, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>$white-color</string>
+		<string>$purple</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(237, 255, 255, 1.00)</string>
+		<string>RGBA(199, 146, 233, 1.00)</string>
 	</dict>
+	<dict>
+		<key>key</key>
+		<string>$brown</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(193, 126, 112, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$pink</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(240, 113, 120, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$violet</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(187, 128, 179, 1.00)</string>
+	</dict>
+	<!-- END: Custom Variables -->
 	<dict>
 		<key>key</key>
 		<string>$placeholder-stroke-base-color</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(83, 110, 123, 1.00)</string>
+		<string>$base-5</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -88,7 +196,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -96,7 +204,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$separator-color</string>
+		<string>$base-4</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -104,7 +212,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$title-text-color</string>
+		<string>$yellow</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -112,7 +220,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$label-color</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -120,7 +228,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(44, 57, 64, 1.00)</string>
+		<string>$base-3</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -128,7 +236,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(44, 57, 64, 1.00)</string>
+		<string>$base-3</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -136,7 +244,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(44, 57, 64, 1.00)</string>
+		<string>$base-3</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -144,7 +252,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(44, 57, 64, 1.00)</string>
+		<string>$base-3</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -152,7 +260,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(79, 129, 149, 1.00)</string>
+		<string>$blue</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -160,7 +268,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$separator-color</string>
+		<string>$base-4</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -168,8 +276,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<!-- <string>RGBA(128, 168, 255, 1.00)</string> -->
-		<string>RGBA(200, 143, 236, 1.00)</string>
+		<string>$red</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -177,7 +284,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(255, 255, 255, 1.00)</string>
+		<string>$white</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -185,7 +292,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -193,7 +300,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(81, 129, 148, 1.00)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -201,7 +308,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -209,7 +316,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -241,7 +348,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(137, 221, 255, 1.00)</string>
+		<string>$base-8</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -249,7 +356,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$white-color</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -257,7 +364,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(255, 83, 112, 1.00)</string>
+		<string>$red</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -265,7 +372,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$white-color</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -273,7 +380,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$white-color</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -281,7 +388,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$white-color</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -289,7 +396,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(81, 129, 148, 1.00)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -297,7 +404,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(83, 110, 123, 1.00)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -305,7 +412,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(255, 204, 0, 1.00)</string>
+		<string>$yellow-bright</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -313,7 +420,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(42, 58, 66, 1.00)</string>
+		<string>$base-3</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -321,7 +428,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(42, 58, 66, 1.00)</string>
+		<string>$base-3</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -329,7 +436,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(82, 109, 121, 1.00)</string>
+		<string>$base-5</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -337,7 +444,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(125, 203, 196, 1.00)</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -345,7 +452,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(125, 203, 196, 1.00)</string>
+		<string>$base-5</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -353,7 +460,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$dark-background-color</string>
+		<string>$base-1</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -361,7 +468,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$dark-background-color</string>
+		<string>$base-1</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -369,7 +476,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$dark-background-color</string>
+		<string>$base-1</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -377,7 +484,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(95, 122, 135, 1.00)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -385,7 +492,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(125, 203, 196, 1.00)</string>
+		<string>$base-8</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -393,7 +500,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(83, 110, 123, 1.00)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -401,7 +508,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(83, 110, 123, 1.00)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -409,7 +516,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(255, 204, 99, 1.00)</string>
+		<string>$yellow</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -417,7 +524,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$icon-color</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -425,7 +532,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -433,7 +540,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$separator-color</string>
+		<string>$base-4</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -441,7 +548,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$separator-color</string>
+		<string>$base-4</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -449,7 +556,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(40, 45, 61, 0.90)</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -457,7 +564,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -465,7 +572,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$text-color</string>
+		<string>$base-9</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -473,7 +580,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -481,7 +588,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(79, 129, 149, 1.00)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -489,7 +596,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$separator-color</string>
+		<string>@alpha($base-5, 0.70)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -497,7 +604,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(79, 129, 149, 1.00)</string>
+		<string>$base-8</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -505,7 +612,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(72, 76, 105, 1.00)</string>
+		<string>@alpha($base-5, 0.70)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -513,7 +620,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(194, 233, 136, 1.00)</string>
+		<string>$purple</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -529,7 +636,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$text-color</string>
+		<string>$base-9</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -537,7 +644,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -545,7 +652,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -561,7 +668,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$text-color</string>
+		<string>$base-9</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -569,7 +676,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$separator-color</string>
+		<string>$base-4</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -577,7 +684,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$text-color</string>
+		<string>$base-9</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -585,7 +692,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -593,7 +700,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -601,7 +708,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -609,7 +716,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>@alpha($base-background-color, 0.80)</string>
+		<string>@alpha($base-2, 0.80)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -617,7 +724,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>@alpha($dark-background-color, 0.9)</string>
+		<string>@alpha($base-1, 0.9)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -625,7 +732,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$icon-color</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -633,7 +740,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -641,7 +748,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$title-text-color</string>
+		<string>$yellow</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -649,7 +756,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>@alpha($title-text-color, 0.3)</string>
+		<string>@alpha($yellow, 0.3)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -657,7 +764,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$cyan</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -665,7 +772,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>@alpha($accent-color, 0.5)</string>
+		<string>@alpha($cyan, 0.5)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -673,7 +780,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>@alpha($icon-color, 0.3)</string>
+		<string>@alpha($base-6, 0.3)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -681,7 +788,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(96, 103, 109, 1.0)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -689,7 +796,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>@alpha($icon-color, 0.7)</string>
+		<string>@alpha($base-6, 0.7)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -697,7 +804,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(41, 43, 45, 1.0)</string>
+		<string>$base-1</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -705,7 +812,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(198, 199, 199, 1.00)</string>
+		<string>@alpha($base-7, .5)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -713,7 +820,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(255, 243, 249, 1.00)</string>
+		<string>$base-9</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -721,7 +828,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(95, 96, 98, 1.0)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -737,7 +844,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -745,7 +852,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(54, 71, 79, 1.00)</string>
+		<string>$base-4</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -753,7 +860,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -761,7 +868,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(25, 34, 38, 0.25)</string>
+		<string>@alpha($base-1, 0.25)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -769,7 +876,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(137, 221, 255, 1.00)</string>
+		<string>$base-8</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -777,7 +884,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(42, 58, 66, 1.00)</string>
+		<string>$base-4</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -785,7 +892,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(79, 129, 149, 1.00)</string>
+		<string>$base-5</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -793,7 +900,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$purple</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -801,7 +908,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -809,7 +916,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -817,7 +924,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>@alpha($title-text-color, 0.3)</string>
+		<string>@alpha($yellow, 0.3)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -825,7 +932,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>@alpha($title-text-color, 0.5)</string>
+		<string>@alpha($yellow, 0.5)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -841,7 +948,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -889,7 +996,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -897,7 +1004,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$text-color</string>
+		<string>$base-9</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -913,7 +1020,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$text-color</string>
+		<string>$base-9</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -921,7 +1028,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$white-color</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -929,7 +1036,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$white-color</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -937,7 +1044,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$white-color</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -945,7 +1052,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$white-color</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -953,7 +1060,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$purple</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -961,7 +1068,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$accent-color</string>
+		<string>$purple</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -969,7 +1076,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$separator-color</string>
+		<string>$base-4</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -977,7 +1084,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -993,7 +1100,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$text-color</string>
+		<string>$base-9</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -1001,7 +1108,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$text-color</string>
+		<string>$base-9</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -1009,7 +1116,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$base-background-color</string>
+		<string>$base-2</string>
 	</dict>
 </array>
 </plist>

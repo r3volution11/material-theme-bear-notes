@@ -2,169 +2,43 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+	<!-- START: Custom Variables -->
+	<!-- Base -->
 	<dict>
 		<key>key</key>
-		<string>Background Text Color</string>
+		<string>$base-1</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(38, 50, 56, 1.00)</string>
+		<string>RGBA(25, 34, 38, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>Base Text Color</string>
+		<string>$base-2</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(165, 189, 206, 1.00)</string>
+		<string>RGBA(38, 50, 56, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>Light Text Color</string>
+		<string>$base-3</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(83, 110, 123, 1.00)</string>
+		<string>RGBA(43, 58, 66, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>Title Text Color</string>
+		<string>$base-4</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(255, 203, 107, 1.00)</string>
+		<string>RGBA(46, 63, 71, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
-		<string>Link Text Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(195, 232, 141, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Accent Text Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(199, 146, 234, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Insertion Point Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(255, 204, 0, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Selected Text Background Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(83, 110, 123, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Selected Text Inactive Background Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(78, 85, 121, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Style Marker Text Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(83, 110, 123, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Invalid Character Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(247, 140, 108, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Map Text Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(195, 232, 141, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Separator Text Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(58, 63, 88, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Hashtag Text Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(255, 255, 255, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Hashtag Marker Text Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(255, 255, 255, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Hashtag Background Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>RGBA(255, 83, 112, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Hashtag Selected Background Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>RGBA(188, 126, 180, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Checkbox Fill Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>rgba(38, 50, 57, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Checkbox Stroke Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>RGBA(83, 110, 123, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Checkbox Check Color</string>
-		<key>kind</key>
-		<string>color</string>
-		<key>value</key>
-		<string>RGBA(255, 83, 112, 1.00)</string>
-	</dict>
-	<dict>
-		<key>key</key>
-		<string>Highlighter Background Color</string>
+		<string>$base-5</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
@@ -172,11 +46,317 @@
 	</dict>
 	<dict>
 		<key>key</key>
+		<string>$base-6</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(84, 110, 122, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-7</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(134, 161, 172, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-8</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(134, 190, 228, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$base-9</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(255, 255, 255, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$white</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(255, 255, 255, 1.00)</string>
+	</dict>
+	<!-- Colors -->
+	<dict>
+		<key>key</key>
+		<string>$red</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(255, 83, 112, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$orange</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(247, 140, 108, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$yellow</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(255, 203, 107, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$yellow-bright</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(255, 204, 0, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$green</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(195, 232, 141, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$cyan</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(137, 221, 255, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$blue</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(130, 170, 255, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$paleblue</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(179, 204, 214, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$purple</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(199, 146, 233, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$brown</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(193, 126, 112, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$pink</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(240, 113, 120, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$violet</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>RGBA(187, 128, 179, 1.00)</string>
+	</dict>
+	<!-- END: Custom Variables -->
+	<dict>
+		<key>key</key>
+		<string>Background Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-2</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Base Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-7</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Light Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-6</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Title Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$yellow</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Link Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$green</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Accent Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$purple</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Insertion Point Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$yellow-bright</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Selected Text Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-6</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Selected Text Inactive Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-5</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Style Marker Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-6</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Invalid Character Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$orange</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Map Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$green</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Separator Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-4</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$white</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Marker Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$white</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$red</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Selected Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$orange</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Checkbox Fill Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-2</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Checkbox Stroke Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-5</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Checkbox Check Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$red</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Highlighter Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-1</string>
+	</dict>
+	<dict>
+		<key>key</key>
 		<string>Highlighter Marker Color</string>
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(134, 221, 255, 1.00)</string>
+		<string>$blue</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -184,7 +364,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(38, 50, 56, 1.00)</string>
+		<string>$base-2</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -192,7 +372,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(84, 110, 122, 1.00)</string>
+		<string>$base-5</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -200,7 +380,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(166, 189, 205, 1.00)</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -216,7 +396,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(130, 170, 255, 1.00)</string>
+		<string>$blue</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -224,7 +404,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(83, 110, 123, 1.00)</string>
+		<string>$base-6</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -232,9 +412,13 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(195, 232, 141, 1.00)</string>
+		<string>$green</string>
 	</dict>
 	<dict>
+		<!-- 
+			TODO: Change Color
+			Can't figure out how to use to change. 
+		-->
 		<key>key</key>
 		<string>Syntax Project</string>
 		<key>kind</key>
@@ -248,7 +432,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(199, 146, 234, 1.00)</string>
+		<string>$purple</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -256,7 +440,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(166, 172, 205, 1.00)</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -264,7 +448,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(247, 140, 108, 1.00)</string>
+		<string>$orange</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -272,7 +456,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(166, 172, 205, 1.00)</string>
+		<string>$base-7</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -280,7 +464,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>rgba(247, 140, 108, 1.00)</string>
+		<string>$orange</string>
 	</dict>
 	<dict>
 		<key>key</key>
