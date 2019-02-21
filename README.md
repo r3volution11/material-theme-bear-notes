@@ -10,27 +10,33 @@ Instructions are included below. It's a short list, don't worry.
 
 ## Updates
 
-**2/20/19** - 🌟 `Lighter` theme now available. **Feedback appreciated.** Will continue to make it better.
+**2/20/19** - 🌟 `Lighter` and `Ocean` themes now available. **Feedback appreciated.**
 
 ## To Do - Theme Variants
 
 - [x] Pale Night
 - [x] Default
 - [x] Lighter 
-- [ ] Ocean *- now in progress*
+- [x] Ocean
 - [ ] Darker
 
-## Install Instructions
+## How to Install
 
-Each Material Theme variant I've created has a different name used to replace a theme within Bear itself. So far I've created Pale Night [`/themes/palenight`] and Default [`/themes/default`]
+To work properly, each Material Theme variant is built over themes already included within Bear itself.
+
+#### Backup Files First
 
 1. If open, quit Bear.
 2. Go to your Applications folder.
 3. Locate and Right-Click on Bear. Select "Show Package Contents."
 4. Navigate to `Contents/Resources`.
 5. Create backups for all `*.theme` files.
-6. Copy the `themes/[theme-name].theme` files you'd like to use to this location.
-7. Open Bear, go to preferences, and make sure `[theme-name]` is the selected theme.
+
+#### Copy Material Theme(s) To Bear
+
+1. [Download Material Bear Theme](https://github.com/r3volution11/material-theme-bear-notes/archive/master.zip) and extract.
+2. Copy `themes/[variant]/[theme-name].theme` files you'd like to use to `Bear.app/Contents/Resources`.
+3. Open Bear, go to preferences, and activate `[theme-name]` under Themes panel.
 
 ## Icon Install Instructions
 
