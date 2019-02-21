@@ -91,7 +91,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(198, 39, 39, 1.00)</string>
+		<string>RGBA(232, 48, 79, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -99,7 +99,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(231, 88, 42, 1.00)</string>
+		<string>RGBA(245, 111, 71, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -107,7 +107,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(242, 157, 14, 1.00)</string>
+		<string>RGBA(255, 174, 27, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -115,7 +115,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(255, 204, 1, 1.00)</string>
+		<string>RGBA(255, 204, 0, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -123,7 +123,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(67, 160, 71, 1.00)</string>
+		<string>RGBA(138, 191, 64, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -131,7 +131,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(10, 146, 161, 1.00)</string>
+		<string>RGBA(106, 195, 232, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -139,7 +139,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(63, 81, 181, 1.00)</string>
+		<string>RGBA(117, 156, 240, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -147,7 +147,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(84, 132, 212, 1.00)</string>
+		<string>RGBA(148, 184, 198, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -155,7 +155,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(118, 75, 210, 1.00)</string>
+		<string>RGBA(176, 116, 216, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -163,7 +163,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(121, 86, 72, 1.00)</string>
+		<string>RGBA(155, 93, 80, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -171,7 +171,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(218, 44, 105, 1.00)</string>
+		<string>RGBA(210, 86, 93, 1.00)</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -179,7 +179,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>RGBA(170, 43, 203, 1.00)</string>
+		<string>RGBA(175, 106, 166, 1.00)</string>
 	</dict>
 	<!-- END: Custom Variables -->
 	<dict>
