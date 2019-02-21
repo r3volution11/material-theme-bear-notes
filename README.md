@@ -1,4 +1,4 @@
-![Material Theme for Bear Screenshot](http://r3v.in/RXU6Av/pb-mtw8PGMZOD.png)
+![Material Theme for Bear Screenshot](http://r3v.in/NRL6Y/pb-1B9VvIUoGU.png)
 
 # Material Theme for Bear Notes (macOS)
 
@@ -10,20 +10,14 @@ Instructions are included below. It's a short list, don't worry.
 
 ## Updates
 
-**2/17/19** - Work continues. Re-doing theme structure for easier work going forward. `Lighter` will be available soon after.
-
-**12/28/18** - I've already created themes and icons for all Material Theme variants. `Lighter` will be available soon.
-
-**12/27/18** - Happy Holidays everyone! The Default theme is ready for use. Pale Night was slightly tweaked as well.
-
-**12/14/18** – Work on support for all Material Theme variants has begun.. stay tuned!
+**2/20/19** - 🌟 `Lighter` theme now available. **Feedback appreciated.** Will continue to make it better.
 
 ## To Do - Theme Variants
 
 - [x] Pale Night
 - [x] Default
-- [ ] Lighter *- now in progress*
-- [ ] Ocean
+- [x] Lighter 
+- [ ] Ocean *- now in progress*
 - [ ] Darker
 
 ## Install Instructions
