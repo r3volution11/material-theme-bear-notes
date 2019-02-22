@@ -10,6 +10,8 @@ Instructions are included below. It's a short list, don't worry.
 
 ## Updates
 
+**2/21/19** - 🌟🌟 `Darker` now available!
+
 **2/20/19** - 🌟 `Lighter` and `Ocean` themes now available. **Feedback appreciated.**
 
 ## To Do - Theme Variants
@@ -18,7 +20,7 @@ Instructions are included below. It's a short list, don't worry.
 - [x] Default
 - [x] Lighter 
 - [x] Ocean
-- [ ] Darker
+- [x] Darker
 
 ## How to Install
 
