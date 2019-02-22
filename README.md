@@ -36,7 +36,7 @@ To work properly, each Material Theme variant is built over themes already inclu
 
 #### Copy Material Theme(s) To Bear
 
-1. [Download Material Bear Theme](https://github.com/r3volution11/material-theme-bear-notes/archive/master.zip) and extract.
+1. Clone or [Download](https://github.com/r3volution11/material-theme-bear-notes/releases) the latest release and extract.
 2. Copy `themes/[variant]/[theme-name].theme` files you'd like to use to `Bear.app/Contents/Resources`.
 3. Open Bear, go to preferences, and activate `[theme-name]` under Themes panel.
 
