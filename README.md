@@ -10,6 +10,8 @@ Instructions are included below. It's a short list, don't worry.
 
 ## Updates
 
+**8/5/19** - All themes appear to work fine with Bear v1.7.
+
 **2/21/19** - 🌟🌟 `Darker` now available!
 
 **2/20/19** - 🌟 `Lighter` and `Ocean` themes now available. **Feedback appreciated.**
