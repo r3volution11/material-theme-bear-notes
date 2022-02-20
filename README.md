@@ -10,6 +10,8 @@ Instructions are included below. It's a short list, don't worry.
 
 ## Updates
 
+**2/20/22** - Long time no see. Updated Default (Cobalt) theme to make sidebar icons more in sync with other themes. Also added vector app icon to `resources/material-bear-theme.sketch` for those that would like to modify it.
+
 **8/5/19** - All themes appear to work fine with Bear v1.7.
 
 **2/21/19** - 🌟🌟 `Darker` now available!
@@ -20,7 +22,7 @@ Instructions are included below. It's a short list, don't worry.
 
 - [x] Pale Night
 - [x] Default
-- [x] Lighter 
+- [x] Lighter
 - [x] Ocean
 - [x] Darker
 
@@ -66,6 +68,5 @@ If I miss anything...
 If you have any ideas or notice issues please let me know by adding an [Issue](https://github.com/r3volution11/bear-theme-material-palenight/issues).
 
 ❤️
-
 
 **Note:** I did not create [Bear (macOS/iOS/etc.)](https://bear.app) or the Material Theme color scheme, palette or anything related unless specified otherwise. I am not affiliated with their creators in any manner.

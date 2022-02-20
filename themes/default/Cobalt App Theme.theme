@@ -292,7 +292,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$cyan</string>
+		<string>$purple</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -308,7 +308,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$cyan</string>
+		<string>$purple</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -316,7 +316,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$cyan</string>
+		<string>$purple</string>
 	</dict>
 	<dict>
 		<key>key</key>
@@ -516,7 +516,7 @@
 		<key>kind</key>
 		<string>color</string>
 		<key>value</key>
-		<string>$yellow</string>
+		<string>$purple</string>
 	</dict>
 	<dict>
 		<key>key</key>
