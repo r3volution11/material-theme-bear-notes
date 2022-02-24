@@ -10,7 +10,7 @@ Instructions are included below. It's a short list, don't worry.
 
 ## Updates
 
-**2/21/22** - Went through and created proper Big Sur style icons for all themes. Check the Sketch file if you'd like to alter them to your liking.
+**2/21/22** - Went through and created proper Big Sur style icons for all themes. Check the Sketch file if you'd like to alter them to your liking.\
 **2/20/22** - Long time no see. Updated Default (Cobalt) theme to make sidebar icons more in sync with other themes. Also added vector app icon to `resources/material-bear-theme.sketch` for those that would like to modify it.
 
 ## How to Install
