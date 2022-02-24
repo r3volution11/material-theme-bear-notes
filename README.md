@@ -2,7 +2,7 @@
 
 # Material Theme for Bear Notes (macOS)
 
-Based on the most epic theme for Visual Studio Code made by @equinusocio, [Material Theme](https://github.com/equinusocio/vsc-material-theme). It's a great theme with beautiful colors and plenty of themes to keep things fresh and current.
+Based on the most epic theme for Visual Studio Code made by @equinusocio, [Material Theme](https://material-theme.site). It's a great theme with beautiful colors and plenty of themes to keep things fresh and current.
 
 Bear uses XML for their themes which is easy to modify and create your own. That said, some **easy** "hacking" is involved as they do not officially support third party themes.
 
@@ -11,22 +11,7 @@ Instructions are included below. It's a short list, don't worry.
 ## Updates
 
 **2/21/22** - Went through and created proper Big Sur style icons for all themes. Check the Sketch file if you'd like to alter them to your liking.
-
 **2/20/22** - Long time no see. Updated Default (Cobalt) theme to make sidebar icons more in sync with other themes. Also added vector app icon to `resources/material-bear-theme.sketch` for those that would like to modify it.
-
-**8/5/19** - All themes appear to work fine with Bear v1.7.
-
-**2/21/19** - 🌟🌟 `Darker` now available!
-
-**2/20/19** - 🌟 `Lighter` and `Ocean` themes now available. **Feedback appreciated.**
-
-## To Do - Theme Variants
-
-- [x] Pale Night
-- [x] Default
-- [x] Lighter
-- [x] Ocean
-- [x] Darker
 
 ## How to Install
 
@@ -52,7 +37,7 @@ I've created Bear app icon replacements for each theme variant. The Bear develop
 
 ![Material Theme for Bear Screenshot](https://github.com/r3volution11/material-theme-bear-notes/raw/master/resources/material-bear-theme-icons-banner.jpg)
 
-- First copy/paste the icon image to the app through the Finder info panel. This ensures the icon works when Bear is note open: [Guide](http://osxdaily.com/2013/06/04/change-icon-mac/)
+- First copy/paste the icon image to the app through the Finder info panel. This ensures the icon works when Bear is not open: [Guide](http://osxdaily.com/2013/06/04/change-icon-mac/)
 - Second, to work while open you must edit Bear's Assets.car file (`/Applications/Bear.app/Contents/Resources/Assets.car`) using [Theme Engine](https://github.com/alexzielenski/ThemeEngine). Create a backup of `Assets.car` to another location, create a new copy and and open with ThemeEngine. Replace all related icon images by pasting into the right location (`Assets.car/AppIcon [theme-name]`). After you're finished copy the modified Assets.car file to `/Applications/Bear.app/Contents/Resources/Assets.car` overwriting the file that is there (password will be required).
 - When finished **enable** the "App icon matches theme" option in Bear's Themes preferences panel.
 
