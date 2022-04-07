@@ -1,4 +1,4 @@
-![Material Theme for Bear Screenshot](https://github.com/r3volution11/material-theme-bear-notes/raw/master/resources/material-bear-theme-hero.jpg)
+![Material Theme for Bear Screenshot](https://github.com/r3volution11/material-theme-bear-notes/blob/main/resources/material-bear-theme-hero.jpg?raw=true)
 
 # Material Theme for Bear Notes (macOS)
 
