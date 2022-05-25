@@ -35,7 +35,7 @@ To work properly, each Material Theme variant is built over themes already inclu
 
 I've created Bear app icon replacements for each theme variant. The Bear developers decided to make icons a little tougher to customize as well. Thankfully, not too hard. To install and ensure the theme icon is always displayed requires the following:
 
-![Material Theme for Bear Screenshot](https://github.com/r3volution11/material-theme-bear-notes/raw/master/resources/material-bear-theme-icons-banner.jpg)
+![Material Theme for Bear Screenshot](https://github.com/r3volution11/material-theme-bear-notes/blob/main/resources/material-bear-theme-icons-banner.jpg?raw=true)
 
 - First copy/paste the icon image to the app through the Finder info panel. This ensures the icon works when Bear is not open: [Guide](http://osxdaily.com/2013/06/04/change-icon-mac/)
 - Second, to work while open you must edit Bear's Assets.car file (`/Applications/Bear.app/Contents/Resources/Assets.car`) using [Theme Engine](https://github.com/alexzielenski/ThemeEngine). Create a backup of `Assets.car` to another location, create a new copy and and open with ThemeEngine. Replace all related icon images by pasting into the right location (`Assets.car/AppIcon [theme-name]`). After you're finished copy the modified Assets.car file to `/Applications/Bear.app/Contents/Resources/Assets.car` overwriting the file that is there (password will be required).
